@@ -1,0 +1,15 @@
+{
+    "model": "Random Forest",
+    "threshold": 0.4,
+    "accuracy": 0.8,
+    "precision_churn": 0.76,
+    "recall_churn": 0.88,
+    "f1_churn": 0.82,
+    "roc_auc": 0.878,
+    "true_negatives": 121,
+    "false_positives": 47,
+    "false_negatives": 20,
+    "true_positives": 148,
+    "baseline_roc_auc": 0.8846,
+    "baseline_model": "Logistic Regression"
+}
